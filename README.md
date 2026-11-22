@@ -4,9 +4,10 @@ Convert Video/ Audio/ Photo file format, offline, locally, on a PC, free of char
 Beggar Media Converter 2.2.0
 Windows 10 22H2 / Windows 11 x64
 
-1. Extract the whole ZIP to a regular local folder.
-2. Open Beggar Media Converter.exe.
-3. Open README.md for the full English guide and its links to all 30 languages.
+1. Releases → Assets download: Beggar-Media-Converter-2.2.0-Windows-x64.zip
+2. Extract the whole ZIP to a regular local folder.
+3. Open Beggar Media Converter.exe.
+4. Open README.md for the full English guide and its links to all 30 languages.
    If needed, open the Markdown files in Notepad.
 
 Language help is in Docs\Guides. Traditional Chinese is README-zh-Hant.md.
