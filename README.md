@@ -1,5 +1,5 @@
-# Beggar-Media-Converter
-Convert Video/ Audio/ Photo file format, offline, locally, on a PC, free of charge
+# Beggar-Media-Converter - Free Offline Media Converter for Windows.
+Beggar Media Converter is a free, portable Windows app for converting and compressing video, audio, and images offline. It supports formats including MP4, MP3, WAV, JPEG, PNG, WebP, and AVIF. Unzip and run. No installation or media upload required.
 
 Beggar Media Converter 2.2.0
 Windows 10 22H2 / Windows 11 x64
