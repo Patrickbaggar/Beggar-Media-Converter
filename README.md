@@ -19,3 +19,4 @@ hands-on exercises. Docs\Engineering.md records the design and checks.
 Diagnostics lets you preview and save a local log. GitHub\PUBLISH.md explains
 how to set the GitHub issue destination and publish the ZIP as a Release asset.
 
+<img width="1122" height="776" alt="圖片" src="https://github.com/user-attachments/assets/54f3c140-4fdc-4951-a74b-38222efa33fd" />
